@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\arman\documents\visual studio 2015\projects\prototype\prototype\source.cpp(31): warning C4715: 'Image::findAndClone': not all control paths return a value
+  Prototype.vcxproj -> c:\users\arman\documents\visual studio 2015\Projects\Prototype\Debug\Prototype.exe
+  Prototype.vcxproj -> c:\users\arman\documents\visual studio 2015\Projects\Prototype\Debug\Prototype.pdb (Partial PDB)

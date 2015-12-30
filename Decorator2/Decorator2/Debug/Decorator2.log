@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\arman\documents\visual studio 2015\projects\decorator2\decorator2\source.cpp(15): error C3867: 'A_X::do_X': non-standard syntax; use '&' to create a pointer to member
+c:\users\arman\documents\visual studio 2015\projects\decorator2\decorator2\source.cpp(27): error C3867: 'A_Y::do_Y': non-standard syntax; use '&' to create a pointer to member
+c:\users\arman\documents\visual studio 2015\projects\decorator2\decorator2\source.cpp(58): error C2248: 'A_X::do_X': cannot access private member declared in class 'A_X'
+  c:\users\arman\documents\visual studio 2015\projects\decorator2\decorator2\source.cpp(18): note: see declaration of 'A_X::do_X'
+  c:\users\arman\documents\visual studio 2015\projects\decorator2\decorator2\source.cpp(11): note: see declaration of 'A_X'

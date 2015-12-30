@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\arman\documents\visual studio 2015\projects\composite\composite\source.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  Composite.vcxproj -> c:\users\arman\documents\visual studio 2015\Projects\Composite\Debug\Composite.exe
+  Composite.vcxproj -> c:\users\arman\documents\visual studio 2015\Projects\Composite\Debug\Composite.pdb (Partial PDB)
