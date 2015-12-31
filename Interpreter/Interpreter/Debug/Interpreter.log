@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\arman\documents\visual studio 2015\projects\interpreter\interpreter\source.cpp(51): error C4716: 'RNInterpreter::one': must return a value
+c:\users\arman\documents\visual studio 2015\projects\interpreter\interpreter\source.cpp(52): error C4716: 'RNInterpreter::four': must return a value
+c:\users\arman\documents\visual studio 2015\projects\interpreter\interpreter\source.cpp(53): error C4716: 'RNInterpreter::five': must return a value
+c:\users\arman\documents\visual studio 2015\projects\interpreter\interpreter\source.cpp(54): error C4716: 'RNInterpreter::nine': must return a value
+c:\users\arman\documents\visual studio 2015\projects\interpreter\interpreter\source.cpp(55): error C4716: 'RNInterpreter::multiplier': must return a value
