@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\arman\documents\visual studio 2015\projects\chainofresponsibility\chainofresponsibility\source.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ChainOfResponsibility.vcxproj -> c:\users\arman\documents\visual studio 2015\Projects\ChainOfResponsibility\Debug\ChainOfResponsibility.exe
+  ChainOfResponsibility.vcxproj -> c:\users\arman\documents\visual studio 2015\Projects\ChainOfResponsibility\Debug\ChainOfResponsibility.pdb (Partial PDB)
