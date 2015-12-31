@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\arman\documents\visual studio 2015\projects\command\command\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Command.vcxproj -> c:\users\arman\documents\visual studio 2015\Projects\Command\Debug\Command.exe
+  Command.vcxproj -> c:\users\arman\documents\visual studio 2015\Projects\Command\Debug\Command.pdb (Partial PDB)
