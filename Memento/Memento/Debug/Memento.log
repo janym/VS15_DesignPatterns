@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\arman\documents\visual studio 2015\projects\memento\memento\source.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Memento.vcxproj -> c:\users\arman\documents\visual studio 2015\Projects\Memento\Debug\Memento.exe
+  Memento.vcxproj -> c:\users\arman\documents\visual studio 2015\Projects\Memento\Debug\Memento.pdb (Partial PDB)
